@@ -132,6 +132,7 @@ _Type here_
 - [ ] Accept as is  
 - [ ] Minor revision  
 - [ ] Major revision  
+- [ ] Reject and encourage resubmission
 - [ ] Reject  
 
 **Optional explanation of recommendation:**  
