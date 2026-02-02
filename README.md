@@ -1,7 +1,7 @@
 # Peer Review Template
 
 ---
-### ℹ️ How to use this template
+### :information_source: How to use this template
 > 1. Open the file `peer_review_template.md` in this repository.
 > 2. Copy the entire Markdown content.
 > 3. Paste it into your preferred Markdown editor (e.g. VS Code, Obsidian, RStudio, Typora, StackEdit, or a simple text editor).
@@ -11,7 +11,7 @@
 > 7. Submit the review in the format required by the journal or platform (e.g. paste into their form, attach as PDF, or share the Markdown file).
 
 ---
-### ℹ️ Using this template directly on GitHub
+### :information_source: Using this template directly on GitHub
 > 1. Click on `peer_review_template.md`.
 > 2. Click the “Raw” button and copy the content.
 > 3. In your own repository, create a new file (e.g. `review_<manuscript_id>.md`) and paste the content.
@@ -24,16 +24,16 @@
 When using this template, please keep in mind the following principles:
 
 1. **Anonymity**  
-   Follow the journal’s peer review model and policy. Decide whether to sign your review or remain anonymous, and respect any double‑blind procedures in place.[web:100][web:106]
+   Follow the journal’s peer review model and policy. Decide whether to sign your review or remain anonymous, and respect any double‑blind procedures in place.
 
 2. **Constructiveness**  
-   Aim to help the authors improve their work. Focus on clarity, rigor, and usefulness of your comments rather than on the authors themselves.[web:103][web:111]
+   Aim to help the authors improve their work. Focus on clarity, rigor, and usefulness of your comments rather than on the authors themselves.
 
 3. **Evidence‑based evaluation**  
-   Ground your assessments and recommendations in specific parts of the manuscript and, where relevant, in the scholarly literature.[web:101][web:110]
+   Ground your assessments and recommendations in specific parts of the manuscript and, where relevant, in the scholarly literature.
 
 4. **Transparency and openness**  
-   Disclose any potential conflicts of interest or biases, and support open and reproducible research practices where possible (e.g. data and code availability).[web:103][web:107]
+   Disclose any potential conflicts of interest or biases, and support open and reproducible research practices where possible (e.g. data and code availability).
 ---
 
 
