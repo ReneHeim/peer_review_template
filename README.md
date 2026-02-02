@@ -12,11 +12,14 @@
 
 ---
 ### :information_source: Using this template directly on GitHub
-> 1. Click on `peer_review_template.md`.
-> 2. Click the “Raw” button and copy the content.
-> 3. In your own repository, create a new file (e.g. `review_<manuscript_id>.md`) and paste the content.
-> 4. Edit the file in GitHub’s editor or locally, replacing placeholders with your responses.
-> 5. Commit the file to keep a versioned record of your review and share it with collaborators.
+> 1. On GitHub, click the green **“Use this template”** button (or **Fork** the repository if the button is not available).
+> 2. Create a new repository under your own GitHub account using this template.
+> 3. In your new repository, open `peer_review_template.md`.
+> 4. Either:
+>    - Edit it directly on GitHub (click the pencil icon), or  
+>    - Clone your repository locally and edit the file in your preferred Markdown editor.
+> 5. For each new review, copy `peer_review_template.md` to a new file (e.g. `review_<manuscript_id>.md`) and fill in the placeholders.
+> 6. Share or archive the completed review as Markdown, or export it (e.g. to PDF) using your usual tools.
 
 ---
 ### :compass: Ethical and practical guidelines for reviewers
