@@ -12,7 +12,7 @@
 
 ---
 ### :information_source: Using this template directly on GitHub
-> 1. On GitHub, click the green **“Use this template”** button (or **Fork** the repository if the button is not available).
+> 1. On GitHub, click the green **“Use this template”** button in the upper right corner of the screen (or **Fork** the repository if the button is not available).
 > 2. Create a new repository under your own GitHub account using this template.
 > 3. In your new repository, open `peer_review_template.md`.
 > 4. Either:
