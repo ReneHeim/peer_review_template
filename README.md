@@ -6,7 +6,7 @@
 > 2. Copy the entire Markdown content.
 > 3. Paste it into your preferred Markdown editor (e.g. VS Code, Obsidian, RStudio, Typora, StackEdit, or a simple text editor).
 > 4. Save the file under a new name (e.g. `review_<manuscript_id>.md`) so you keep the original template unchanged.
-> 5. Replace all placeholder text (such as `_Type here_`) with your own answers.
+> 5. Replace all placeholder text (such as `*Type here*`) with your own answers.
 > 6. If needed, export the completed review to PDF or Word using your editor’s export function or a tool like Pandoc.
 > 7. Submit the review in the format required by the journal or platform (e.g. paste into their form, attach as PDF, or share the Markdown file).
 
