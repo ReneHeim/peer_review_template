@@ -1,3 +1,5 @@
+Peer Review Template (c) 2026 Rene Heim
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
