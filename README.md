@@ -19,7 +19,22 @@
 > 5. Commit the file to keep a versioned record of your review and share it with collaborators.
 
 ---
+### :compass: Ethical and practical guidelines for reviewers
 
+When using this template, please keep in mind the following principles:
+
+1. **Anonymity**  
+   Follow the journal’s peer review model and policy. Decide whether to sign your review or remain anonymous, and respect any double‑blind procedures in place.[web:100][web:106]
+
+2. **Constructiveness**  
+   Aim to help the authors improve their work. Focus on clarity, rigor, and usefulness of your comments rather than on the authors themselves.[web:103][web:111]
+
+3. **Evidence‑based evaluation**  
+   Ground your assessments and recommendations in specific parts of the manuscript and, where relevant, in the scholarly literature.[web:101][web:110]
+
+4. **Transparency and openness**  
+   Disclose any potential conflicts of interest or biases, and support open and reproducible research practices where possible (e.g. data and code availability).[web:103][web:107]
+---
 
 
 ## Manuscript Information
