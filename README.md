@@ -1,5 +1,6 @@
 # Peer Review Template
 
+::: info
 > ## How to use this template
 > 1. Open the file `peer_review_template.md` in this repository.
 > 2. Copy the entire Markdown content.
@@ -8,7 +9,9 @@
 > 5. Replace all placeholder text (such as `_Type here_`) with your own answers.
 > 6. If needed, export the completed review to PDF or Word using your editor’s export function or a tool like Pandoc.
 > 7. Submit the review in the format required by the journal or platform (e.g. paste into their form, attach as PDF, or share the Markdown file).
+:::
 
+> [!info]
 > ### Using this template directly on GitHub
 > 1. Click on `peer_review_template.md`.
 > 2. Click the “Raw” button and copy the content.
