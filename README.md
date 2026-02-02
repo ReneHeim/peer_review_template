@@ -1,5 +1,14 @@
 # Peer Review Template
 
+
+::: info
+## How to use this template
+1. Open `peer_review_template.md`.
+2. Copy the content into your editor.
+3. Save under a new name before editing.
+:::
+
+
 ::: info
 > ## How to use this template
 > 1. Open the file `peer_review_template.md` in this repository.
